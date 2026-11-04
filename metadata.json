@@ -1,0 +1,6 @@
+{
+  "name": "Barber SaaS Demo",
+  "description": "Software de gestão e agendamento para barbearias com controle de fila ao vivo e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
